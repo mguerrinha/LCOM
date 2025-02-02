@@ -1,5 +1,5 @@
 # Last One Standing
-## Grade: 17,98/20
+## Grade: 17.98/20
 This project was developed as part of the Computer Laboratory classes using Minix operating system.
 
 <p>Last One Standing was inspired in a game from Discord named Land-io game.</p>
